@@ -1,4 +1,4 @@
-package es.unileon.prg.tema6;
+package es.unileon.prg.tema7;
 import java.lang.reflect.Method;
 import java.lang.reflect.InvocationTargetException;
 
@@ -10,7 +10,7 @@ import java.lang.reflect.InvocationTargetException;
  */
 public class PruebaPractica {
 
-	private static String CLASE = "es.unileon.prg.tema6.Apartado";
+	private static String CLASE = "es.unileon.prg.tema7.Apartado";
 	private static String METODO = "ejercicio";
 
 	/**

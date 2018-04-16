@@ -1,4 +1,4 @@
-package es.unileon.prg.tema6;
+package es.unileon.prg.tema7;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
