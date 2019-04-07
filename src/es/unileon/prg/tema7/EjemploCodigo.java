@@ -167,7 +167,7 @@ public class EjemploCodigo {
 
         Persona[] personas = null;
 
-        recibirParametros(personas);
+        recibirParametrosErroneo(personas);
 
         contador = 0;
         while ((contador < personas.length) && (personas[contador] != null)) {
